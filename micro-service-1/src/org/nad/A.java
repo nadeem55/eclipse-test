@@ -34,5 +34,7 @@ public class A {
 
 	static void addEhsan() {
 		//TODO: add implementation
+		
+		System.out.println("add ehsan");
 	}
 }
