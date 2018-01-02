@@ -27,6 +27,7 @@ public class A {
 	static void mergeCommit() {
 		
 
+		System.out.println("hello");
 	}
 
 }
