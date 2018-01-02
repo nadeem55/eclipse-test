@@ -19,5 +19,8 @@ public class A {
 		//waris
 				System.out.println("Hello! World of Git.");
 	}
+	static void mergeCommit() {
+		
+	}
 
 }
