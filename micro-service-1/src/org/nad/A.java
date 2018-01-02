@@ -42,4 +42,12 @@ public class A {
 		
 		System.out.println("aTest");
 	}
+	
+	//
+	static void bTest() {
+		//TODO: add implementation
+		
+		System.out.println("bTest");
+	}
+	
 }
