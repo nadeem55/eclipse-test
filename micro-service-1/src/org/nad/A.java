@@ -8,6 +8,9 @@ public class A {
 		System.out.println("Hello! World of Git.");
 		System.out.println("Hello! World of Git.");
 		System.out.println("Hello! World of Git.");
+		
+		//ehsan
+		System.out.println("Hello! World of Git.");
 	}
 
 }
