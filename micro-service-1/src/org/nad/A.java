@@ -30,4 +30,7 @@ public class A {
 		System.out.println("hello");
 	}
 
+	static void addEhsan() {
+		//TODO: add implementation
+	}
 }
