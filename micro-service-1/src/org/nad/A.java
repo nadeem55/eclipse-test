@@ -18,8 +18,15 @@ public class A {
 		
 		//waris
 				System.out.println("Hello! World of Git.");
+
 				
 		//Little changed is made.
+	}
+	
+	
+	static void mergeCommit() {
+		
+
 	}
 
 }
