@@ -40,7 +40,7 @@ public class A {
 	static void aTest() {
 		//TODO: add implementation
 		
-		System.out.println("aTest");
+		System.out.println("this message is updated");
 	}
 	
 	//
