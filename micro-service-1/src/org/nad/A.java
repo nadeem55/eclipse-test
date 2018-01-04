@@ -55,6 +55,9 @@ public class A {
 		//TODO: add implementation
 		
 		System.out.println("bTest");
+		System.out.println("bTest");
+		System.out.println("bTest");
+		System.out.println("bTest");
 	}
 	
 }
