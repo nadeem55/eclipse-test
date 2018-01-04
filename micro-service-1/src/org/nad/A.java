@@ -50,4 +50,11 @@ public class A {
 		System.out.println("bTest");
 	}
 	
+	//added by nadeem
+	static void cTest() {
+		//TODO: add implementation
+		
+		System.out.println("bTest");
+	}
+	
 }
